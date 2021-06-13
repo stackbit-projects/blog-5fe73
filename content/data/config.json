@@ -13,7 +13,7 @@
                 "new_window": false
             },
             {
-                "label": "About",
+                "label": "O mnie",
                 "url": "/about",
                 "style": "link"
             },
