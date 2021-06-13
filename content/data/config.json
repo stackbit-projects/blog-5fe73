@@ -9,7 +9,8 @@
             {
                 "label": "Strona główna",
                 "url": "/",
-                "style": "link"
+                "style": "link",
+                "new_window": true
             },
             {
                 "label": "About",
