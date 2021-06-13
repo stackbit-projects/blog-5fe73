@@ -3,7 +3,7 @@
     "path_prefix": "/",
     "palette": "blue",
     "header": {
-        "logo_img_alt": "Fjord Logo",
+        "logo_img_alt": "marcin programuje logo",
         "background_img": "images/header-bg.jpg",
         "has_nav": true,
         "nav_links": [
