@@ -28,5 +28,5 @@ seo:
       value: images/home.jpg
       relativeUrl: true
 layout: home
-title: Zacznij tutaj
+title: Strona główna
 ---
