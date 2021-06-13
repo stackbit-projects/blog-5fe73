@@ -16,11 +16,6 @@
                 "label": "O mnie",
                 "url": "/about",
                 "style": "link"
-            },
-            {
-                "label": "Contact",
-                "url": "/contact",
-                "style": "link"
             }
         ],
         "has_social": true,
